@@ -84,8 +84,8 @@
     "id": "assets-filter",
     "assets": {
       "deliveryTier": "dm",
-      "repoNames": ["thisRepo", "thatRepo"],
-      "selectionTier": ["author", "delivery"],
+      "repoNames": ["author-p10610-e1658046.adobeaemcloud.com"],
+      "selectionTier": ["author"],
       "disableRemote": true,
       "preselectedTypes": ["png", "svg", "jpg", "gif"],
       "minMaxDimensions": {
