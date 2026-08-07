@@ -79,5 +79,25 @@
     "components": [
       "tabs-item"
     ]
+  },
+  {
+    "id": "assets-filter",
+    "assets": {
+      "deliveryTier": "dm",
+      "repoNames": ["thisRepo", "thatRepo"],
+      "selectionTier": ["author", "delivery"],
+      "disableRemote": true,
+      "preselectedTypes": ["png", "svg", "jpg", "gif"],
+      "minMaxDimensions": {
+        "widthMin": 640,
+        "widthMax": 640,
+        "heightMin": 480,
+        "heightMax": 480
+      },
+      "minMaxFileSize": {
+        "min": 1024,
+        "max": 1024
+      }
+    }
   }
 ]
