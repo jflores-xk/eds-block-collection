@@ -13,6 +13,7 @@
 :root {
   /* colors */
   --background-color: white;
+  --background-blue-color: #0082cd;
   --light-color: #f8f8f8;
   --dark-color: #505050;
   --text-color: #131313;
@@ -25,7 +26,7 @@
 
   /* body sizes */
   --body-font-size-m: 22px;
-  --body-font-size-s: 19px;
+  --body-font-size-s: 1pc;
   --body-font-size-xs: 17px;
 
   /* heading sizes */
